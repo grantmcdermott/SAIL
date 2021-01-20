@@ -54,7 +54,7 @@ class: inverse, center, middle
 
 ---
 
-## How much is a polar worth?
+## How much is a polar bear worth?
 
 ![](pics/polarbear.jpg)
 
