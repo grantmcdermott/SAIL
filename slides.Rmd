@@ -5,7 +5,7 @@ subtitle: "Grant R. McDermott | University of Oregon"
 #date: "2017/05/30"
 output:
   xaringan::moon_reader:
-    css: ["css/my-css.css", "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css", xaringan-themer.css] 
+    css: [css/my-css.css, xaringan-themer.css] 
     lib_dir: libs
     nature:
       highlightStyle: github
