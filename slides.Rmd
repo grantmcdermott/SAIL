@@ -18,6 +18,10 @@ library(xaringanthemer)
 style_mono_light(base_color = "#23395b", link_color = "#F97B64")
 ```
 
+```{r xaringan-scribble, echo=FALSE}
+xaringanExtra::use_scribble()
+```
+
 ```{r setup, include=FALSE}
 options(htmltools.dir.version = FALSE)
 ```
